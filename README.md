@@ -1,4 +1,4 @@
-# Izaias
+# IzaiasDB
 Curso da popstand
 https://github.com/stevekinney/grudges-react-state
 nvm use 14
