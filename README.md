@@ -13,7 +13,9 @@ https://github.com/stevekinney/react-state-management
 
 git clone https://github.com/stevekinney/grudges-react-state
 git checkout exercise-new-grudge-context
-  
+git clone grudges-react-state 
+git checkout implement-use-reducer  
+git checkout exercise-redo  
 
 # Grudges (Frontend Masters: React State)
 
